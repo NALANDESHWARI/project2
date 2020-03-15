@@ -178,3 +178,4 @@ void sendThingspeak() {
     Serial.print(h);
     Serial.println("%. Sent to Thingspeak.");
   }
+}
